@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lubna Al Rifaie
 - 🌱 I’m currently a 4th Year BSc Computer Science Student at Wilfrid Laurier University
 - 📫 How to reach me ...
-- email: Lubnaalrifaie2001@gmail.com
+- Email: Lubnaalrifaiedev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lubna-al-rifaie-588895273/
 
 <!---
