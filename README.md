@@ -2,7 +2,7 @@
 - 🌱 I’m currently a 4th Year BSc Computer Science Student at Wilfrid Laurier University
 - 📫 How to reach me ...
 - Email: Lubnaalrifaiedev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/lubna-al-rifaie-588895273/
+- Website: https://linktr.ee/Lubnaalrifaie
 
 <!---
 Lubnaalrifaie1/Lubnaalrifaie1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
