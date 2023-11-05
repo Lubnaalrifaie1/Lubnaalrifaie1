@@ -1,4 +1,4 @@
-Hi there, I'm Simrah 👋
+Hi there, I'm Lubna 👋
 - 🌱 I’m currently a 4th Year BSc Computer Science Student at Wilfrid Laurier University
 - 📫 How to reach me ...
 - Email: Lubnaalrifaiedev@gmail.com
