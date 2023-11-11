@@ -1,7 +1,9 @@
 <h1> Hello 👋🏻, My Name is Lubna and Welcome to My GitHub </h1>
 
-- 🌱 I’m currently learning ... C#, C++
+* 🖥️  See my portfolio at [Lubnaalrifaie.me]((https://linktr.ee/Lubnaalrifaie))
+* 🌱 I’m currently obtaining my Bachelor of Science in Computer Science!
 - 💬 Ask me about anything
+* 🤝  I'm open to collaborating on Hackathons, Interesting projects, and more!
 - 📫 How to reach me: https://linktr.ee/Lubnaalrifaie
 - ⚡ Experience in Python, JavaScript, Java, C, CSS, HTML, SQL
 
