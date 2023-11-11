@@ -32,13 +32,13 @@
   <a href="https://www.linkedin.com/in/lubna-al-rifaie-588895273" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  
-  <a href="mailto:lubnaalrifaiedev@gmail.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" />
-  </a>
 
   <a href="https://discord.com/users/798298069883027468" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+
+  <a href="mailto:lubnaalrifaiedev@gmail.com">
+    <img src="path_to_your_email_icon" width="32" height="32" />
   </a>
 </p>
 
