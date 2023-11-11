@@ -36,12 +36,11 @@
   <a href="https://discord.com/users/798298069883027468" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>
-
+  
   <a href="mailto:lubnaalrifaiedev@gmail.com">
-    <img src="path_to_your_email_icon" width="32" height="32" />
+    <img src="path_to_gmail_icon" width="32" height="32" />
   </a>
 </p>
-
 
 <!--
 **MannPate130/MannPate130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
