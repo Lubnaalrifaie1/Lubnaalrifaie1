@@ -1,10 +1,22 @@
-Hi there, I'm Lubna 👋
-- 🌱 I’m currently a 4th Year BSc Computer Science Student at Wilfrid Laurier University
-- 📫 How to reach me ...
-- Email: Lubnaalrifaiedev@gmail.com
-- Website: https://linktr.ee/Lubnaalrifaie
+<h1> Hello 👋🏻, My Name is Lubna and Welcome to My GitHub </h1>
 
-<!---
-Lubnaalrifaie1/Lubnaalrifaie1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning ... C#, C++
+- 💬 Ask me about anything
+- 📫 How to reach me: https://linktr.ee/Lubnaalrifaie
+- ⚡ Experience in Python, JavaScript, Java, C, CSS, HTML, SQL
+
+
+<!--
+**MannPate130/MannPate130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
