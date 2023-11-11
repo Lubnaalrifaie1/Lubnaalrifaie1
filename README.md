@@ -33,8 +33,8 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   
-  <a href="https://devpost.com/Lubnaalrifaie1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devpost.svg" width="32" height="32" />
+  <a href="mailto:lubnaalrifaiedev@gmail.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" />
   </a>
 
   <a href="https://discord.com/users/798298069883027468" target="_blank" rel="noreferrer">
