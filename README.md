@@ -4,7 +4,6 @@
 - 🌱 I’m currently obtaining my 4th Year Honours Computer Science Student @ Wilfrid Laurier University
 - 🤝  I'm open to collaborating on hackathons, interesting projects, and more!
 - 🤔 I’m looking for internships for the summer!
-- 📫 How to reach me: https://linktr.ee/Lubnaalrifaie
 - ⚡ Experience in Python, JavaScript, Java, C, CSS, HTML, and SQL
 
 ### Skills
