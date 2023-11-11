@@ -1,6 +1,6 @@
 <h1> Hello 👋🏻, My Name is Lubna and Welcome to My GitHub. </h1>
 
-- 🖥️  See my portfolio at [Lubnaalrifaie](https://linktr.ee/Lubnaalrifaie)
+- 🖥️  See my portfolio at [Lubnaalrifaie.ee](https://linktr.ee/Lubnaalrifaie)
 - 🌱 I’m currently obtaining my 4th Year Honours Computer Science Student @ Wilfrid Laurier University
 - 🤝  I'm open to collaborating on hackathons, interesting projects, and more!
 - 🤔 I’m looking for internships for the summer!
