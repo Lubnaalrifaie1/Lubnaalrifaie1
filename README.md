@@ -1,5 +1,5 @@
 <h1 align="left"> 
-  <img src="[http://cs.brown.edu/courses/cs132/homeworks/hw1/homework1.html](http://baretreemedia.com/)"/>
+  <img src="http://cs.brown.edu/courses/cs132/homeworks/hw1/homework1.html"/>
   Hello 👋🏻, My Name is Lubna and Welcome to My GitHub
 </h1>
 
