@@ -1,4 +1,7 @@
-<h1> <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/BareTreeMedia-work-from-home-btm-bare-tree-media-STroE7bTBLTzxQUrZc)" width="40"/> Hello 👋🏻, My Name is Lubna and Welcome to My GitHub. </h1>
+<h1 align="left"> 
+  <img src="https://giphy.com/gifs/BareTreeMedia-work-from-home-btm-bare-tree-media-STroE7bTBLTzxQUrZc" width="40"/>
+  Hello 👋🏻, My Name is Lubna and Welcome to My GitHub
+</h1>
 
 - 🖥️  See my portfolio at [Lubnaalrifaie.ca](https://linktr.ee/Lubnaalrifaie)
 - 🌱 I’m currently obtaining my 4th Year Honours Computer Science Student @ Wilfrid Laurier University
