@@ -1,5 +1,5 @@
 <h1 align="left"> 
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](http://baretreemedia.com/)](http://cs.brown.edu/courses/cs132/homeworks/hw1/homework1.html)" width="40"/>
+  <img src="http://cs.brown.edu/courses/cs132/homeworks/hw1/homework1.html"/>
   Hello 👋🏻, My Name is Lubna and Welcome to My GitHub
 </h1>
 
