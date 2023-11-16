@@ -1,6 +1,6 @@
 <h1 align="left"> 
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](http://baretreemedia.com/)" width="40"/>
-  Hello 👋🏻, My Name is Lubna and Welcome to My GitHub
+  Hello👋🏻, My Name is Lubna and Welcome to My GitHub
 </h1>
 
 <div align="left" id="badges">
