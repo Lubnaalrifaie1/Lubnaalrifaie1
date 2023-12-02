@@ -10,6 +10,7 @@
 - 🌱 I’m currently obtaining my 4th Year Honours Computer Science Student @ Wilfrid Laurier University
 - 🤝  I'm open to collaborating on hackathons, interesting projects, and more!
 - 🤔 I’m looking for internships for the summer!
+- ✨ Specializing in web and software development, passionate about tech, AI, ML
 - ⚡ Experience in Python, JavaScript, Java, C, CSS, HTML, and SQL
 
 ### Skills
