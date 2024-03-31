@@ -8,7 +8,7 @@
 
 - 🖥️  See my portfolio at [Lubnaalrifaie.ca](https://linktr.ee/Lubnaalrifaie)
 - 🌱 I’m currently obtaining my 4th Year Honours Computer Science Student @ Wilfrid Laurier University
-- 👀 Specializing in web and software development, passionate about tech, AI, and ML
+- 👀 Specializing in Big Data Systems and software development, passionate about tech, AI, and ML
 - 🤝  I'm open to collaborating on hackathons, interesting projects, and internships!
 - ⚡ Experience in Python, JavaScript, Java, C, CSS, HTML, and SQL
 
