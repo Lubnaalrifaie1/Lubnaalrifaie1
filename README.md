@@ -37,6 +37,16 @@
 
 
 
+  <!-- GitHub Stats -->
+  <h3>GitHub Activity:</h3>
+  <div align="left">
+    <img
+      src="https://streak-stats.demolab.com?user=VickySekhon&theme=leafy&hide_border=true"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickySekhon&layout=compact&theme=codeSTACKr"
+    />
+  </div>
 
 
 ### Socials
